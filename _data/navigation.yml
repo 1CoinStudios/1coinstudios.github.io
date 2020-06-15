@@ -12,11 +12,11 @@ products:
   - title: "Unity Assets"
     children:
       - title: "LIGHT2D"
-        url: /products/light2d/
+        url: /light2d/
       - title: "TRAIL2D"
-        url: /products/trail2d/
+        url: /trail2d/
 	  - title: "SHOCKWAVE"
-        url: /products/shockwave/
+        url: /shockwave/
   
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
