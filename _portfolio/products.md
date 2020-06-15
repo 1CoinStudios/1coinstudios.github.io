@@ -14,7 +14,7 @@ sort_order: forward
 sidebar: 
   nav: "products"
 
-asset_gallery:
+gallery:
   - url: /products/light2d/
     image_path: assets/images/asset_01.jpg
     alt: "placeholder image 1"
@@ -26,4 +26,4 @@ asset_gallery:
     alt: "placeholder image 3"
 ---
 
-{% include asset_gallery caption="Asset gallery" %}
+{% include gallery caption="Asset gallery" %}
