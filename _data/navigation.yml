@@ -9,15 +9,12 @@ main:
 
 # sidebar
 products:
-  - title: "Unity Assets"
-    url: /producs/
+  - title: "Parent Link 1"
     children:
-	  - title: "LIGHT2D"
-	    url: /products/light2d/
-	  - title: "TRAIL2D"
-	    url: /products/trail2d/
-	  - title: "SOCKWAVE"
-	    url: /products/shockwave/
+      - title: "Child Link 1"
+        url: /child-1-page-url/
+      - title: "Child Link 2"
+        url: /child-2-page-url/
   
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
