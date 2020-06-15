@@ -10,6 +10,7 @@ main:
 # sidebar
 products:
   - title: "Unity Assets"
+    url: /producs/
     children:
 	  - title: "LIGHT2D"
 	    url: /products/light2d/
