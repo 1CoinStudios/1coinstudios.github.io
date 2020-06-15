@@ -15,14 +15,14 @@ sidebar:
   nav: "products"
 
 gallery:
-  - url: /products/light2d/
-    image_path: assets/images/asset_01.jpg
+  - url: /assets/images/unsplash-gallery-image-1.jpg
+    image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
-  - url: /products/trail2d/
-    image_path: assets/images/asset_02.jpg
+  - url: /assets/images/unsplash-gallery-image-2.jpg
+    image_path: assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-  - url: /products/shockwave/
-    image_path: assets/images/asset_03.jpg
+  - url: /assets/images/unsplash-gallery-image-3.jpg
+    image_path: assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
 ---
 
