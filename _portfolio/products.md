@@ -6,18 +6,24 @@ collection: portfolio
 entries_layout: grid
 classes: wide
 
-defaults:
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: false
-      share: true
+collection: Unity Assets
+entries_layout: list
+sort_by: date
+sort_order: forward
 
 sidebar: 
   nav: "products"
+
+asset_gallery:
+  - url: /products/light2d/
+    image_path: assets/images/asset_01.jpg
+    alt: "placeholder image 1"
+  - url: /products/trail2d/
+    image_path: assets/images/asset_02.jpg
+    alt: "placeholder image 2"
+  - url: /products/shockwave/
+    image_path: assets/images/asset_03.jpg
+    alt: "placeholder image 3"
 ---
 
-Products
+{% include asset_gallery caption="Asset gallery" %}
