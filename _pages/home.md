@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/splash.jpg
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
-	    url: "/docs/quick-start-guide/"
+      url: "/docs/quick-start-guide/"
 ---
 
 Home
