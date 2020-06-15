@@ -10,8 +10,7 @@ header:
       url: "https://assetstore.unity.com/publishers/36858"
 show_overlay_excerpt: false
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.19.3">Latest release v4.19.3</a></small>
+  1Coin is an independent studio making games and Unity assets.
 ---
 
 Developing...
