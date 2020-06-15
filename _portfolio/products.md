@@ -1,17 +1,15 @@
 ---
-title: "Products"
+title: Products
 layout: collection
 permalink: /products/
 collection: portfolio
 entries_layout: grid
 classes: wide
 
-
-
 sidebar: 
   nav: "products"
 
-gallery:
+asset_gallery:
   - url: /products/light2d/
     image_path: assets/images/asset_01.jpg
     alt: "placeholder image 1"
@@ -23,4 +21,4 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Developing...
+{% include asset_gallery caption="Asset Gallery" %}
