@@ -4,7 +4,6 @@ main:
     url: /
   - title: 'Products'
     url: /products/
-	nav: "products"
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
