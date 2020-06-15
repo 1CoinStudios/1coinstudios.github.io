@@ -8,3 +8,5 @@ classes: wide
 
 sidebar: "products"
 ---
+
+Products
