@@ -9,22 +9,14 @@ main:
 
 # sidebar
 products:
-  - title: "Parent Link 1"
-    url: /parent-1-page-url/
+  - title: "Unity Assets"
     children:
-      - title: "Child Link 1"
-        url: /child-1-page-url/
-      - title: "Child Link 2"
-        url: /child-2-page-url/
-  - title: "Parent Link 2"
-    url: /parent-2-page-url/
-    children:
-      - title: "Child Link 1"
-        url: /child-1-page-url/
-      - title: "Child Link 2"
-        url: /child-2-page-url/
-      - title: "Child Link 3"
-        url: /child-3-page-url/
+	  - title: "LIGHT2D"
+	    url: /products/light2d/
+	  - title: "TRAIL2D"
+	    url: /products/trail2d/
+	  - title: "SOCKWAVE"
+	    url: /products/shockwave/
   
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
