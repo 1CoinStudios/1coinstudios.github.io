@@ -1,6 +1,4 @@
 ---
-sidebar: "products"
-
 title: Products
 layout: collection
 permalink: /products/
@@ -17,6 +15,9 @@ defaults:
       layout: single
       author_profile: false
       share: true
+
+sidebar: 
+  nav: "products"
 ---
 
 Products
