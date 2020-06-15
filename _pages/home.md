@@ -14,4 +14,4 @@ excerpt: >
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.19.3">Latest release v4.19.3</a></small>
 ---
 
-Home
+Developing...
