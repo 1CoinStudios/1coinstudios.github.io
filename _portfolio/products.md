@@ -26,4 +26,3 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-{% include gallery caption="Asset gallery" %}
