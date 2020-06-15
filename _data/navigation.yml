@@ -8,7 +8,7 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
 products:
-  - title: "Unity Assets"
+  - title: Unity Assets
     children:
 	  - title: "LIGHT2D"
 	    url: /products/light2d
