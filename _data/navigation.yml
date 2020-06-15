@@ -2,10 +2,8 @@
 main:
   - title: 'Home'
     url: /
-
   - title: 'Products'
     url: /products/
-
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
@@ -14,10 +12,8 @@ products:
     children:
 	  - title: "LIGHT2D"
 	    url: /products/light2d
-
 	  - title: "TRAIL2D"
 	    url: /products/trail2d
-		
 	  - title: "SOCKWAVE"
 	    url: /products/shockwave
   
