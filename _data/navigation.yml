@@ -4,15 +4,20 @@ main:
     url: /
   - title: 'Products'
     url: /products/
-	children:
+	nav: "products"
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+
+products:
+  - title: "Unity Assets"
+    children:
 	  - title: "LIGHT2D"
 	    url: /products/light2d
 	  - title: "TRAIL2D"
 	    url: /products/trail2d
 	  - title: "SOCKWAVE"
 	    url: /products/shockwave
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
