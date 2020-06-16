@@ -287,4 +287,4 @@ collections:
   products:
     output: true
     permalink: /:collection/:path/
-	relative_directory: /_pages/products/
+	relative_directory: /_pages/
