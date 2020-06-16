@@ -286,4 +286,4 @@ defaults:
 collections:
   products:
     output: true
-    permalink: /:collection/:path/
+    permalink: _pages/:collection/:path/

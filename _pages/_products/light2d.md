@@ -1,6 +1,6 @@
 ---
 
-permalink: /products/light2dd/
+permalink: /products/light2d/
 
 title: "LIGHT2D"
 excerpt: "Light2D is greate asset that express 2d light."
