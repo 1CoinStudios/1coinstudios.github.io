@@ -284,6 +284,6 @@ defaults:
       related: true
 
 collections:
-  portfolio:
+  products:
     output: true
     permalink: /:collection/:path/
