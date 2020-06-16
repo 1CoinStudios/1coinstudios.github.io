@@ -286,4 +286,4 @@ defaults:
 collections:
   portfolio:
     output: true
-    permalink: _pages/:collection/:path/
+    permalink: /_pages/:collection/:path/
