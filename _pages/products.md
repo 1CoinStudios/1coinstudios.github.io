@@ -2,7 +2,7 @@
 title: Products
 layout: collection
 permalink: /products/
-collection: portfolio
+collection: pages/products
 entries_layout: grid
 classes: wide
 
@@ -22,4 +22,3 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-{% include gallery %}
