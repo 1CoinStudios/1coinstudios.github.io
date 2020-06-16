@@ -147,7 +147,7 @@ footer:
 include:
   - .htaccess
   - _pages
-  - _portfolio
+  - _products
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -287,4 +287,3 @@ collections:
   products:
     output: true
     permalink: /:collection/:path/
-	relative_directory: /_pages/
