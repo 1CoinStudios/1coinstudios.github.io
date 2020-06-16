@@ -2,7 +2,7 @@
 title: Products
 layout: collection
 permalink: /products/
-collection: pages/products
+collection: portfolio
 entries_layout: grid
 classes: wide
 
