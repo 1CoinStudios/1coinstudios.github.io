@@ -20,13 +20,13 @@ gallery:
     image_path: /assets/images/light2d/screenshot_02.png
     alt: "Screenshot image 2"
   - url: /assets/images/light2d/screenshot_03.png
-    image_path: 3assets/images/light2d/screenshot_03.png
+    image_path: assets/images/light2d/screenshot_03.png
     alt: "Screenshot image 3"
   - url: /assets/images/light2d/screenshot_04.png
-    image_path: 3assets/images/light2d/screenshot_04.png
+    image_path: assets/images/light2d/screenshot_04.png
     alt: "Screenshot image 4"
   - url: /assets/images/light2d/screenshot_05.png
-    image_path: 3assets/images/light2d/screenshot_05.png
+    image_path: assets/images/light2d/screenshot_05.png
     alt: "Screenshot image 5"    
 
 ---
