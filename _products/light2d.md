@@ -35,7 +35,7 @@ gallery:
 
 {% include gallery %}
 
-**The amazing 2D Lights and Shadows solution.**
+### The amazing 2D Lights and Shadows solution
 
 - Lighting and Masking system.
 - One step to add a light and mask to the scene.
@@ -45,4 +45,5 @@ gallery:
 - Realtime preview in editor.
 - Provide auto and manual update of geometry.
 
-[DOWNLOAD NOW](https://assetstore.unity.com/packages/tools/particles-effects/2d-lights-and-shadows-119920){: .btn .btn--info .btn--large}
+
+[DOWNLOAD NOW](https://assetstore.unity.com/packages/tools/particles-effects/2d-lights-and-shadows-119920){: .btn .btn--info .btn--large .text-center}
