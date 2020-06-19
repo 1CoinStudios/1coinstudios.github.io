@@ -31,4 +31,6 @@ gallery:
 
 ---
 
-{% include gallery caption="This is a screenshot gallery." %}
+{% include video id="V2TK_2mJgC8" provider="youtube" %}
+
+{% include gallery %}
