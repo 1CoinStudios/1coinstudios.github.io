@@ -21,4 +21,3 @@ gallery:
     image_path: assets/images/shockwave/thumbnail.jpg
     alt: "placeholder image 3"
 ---
-
