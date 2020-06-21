@@ -35,21 +35,12 @@ gallery:
 
 <a class="card" style="width: 18rem" href="https://www.youtube.com/channel/UCjNZDC-ANZ23b6Qakv_1Yog">
   <img src="/assets/images/icon/youtube.png" class="card-img-top" alt="Youtube">
-  <div class="card-body">
-    <p class="card-title">Youtube</p>
-  </div>
 </a>
 
 <a class="card" style="width: 18rem" href="https://assetstore.unity.com/publishers/36858">
   <img src="/assets/images/icon/unity.png" class="card-img-top" alt="Unity">
-  <div class="card-body">
-    <p class="card-title">Unity</p>
-  </div>
 </a>
 
 <a class="card" style="width: 18rem" href="mailto:onecoin.studios@gmail.com">
   <img src="/assets/images/icon/email.png" class="card-img-top" alt="EMail">
-  <div class="card-body">
-    <p class="card-title">EMail</p>
-  </div>
 </a>
