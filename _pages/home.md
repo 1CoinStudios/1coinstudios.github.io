@@ -33,14 +33,22 @@ gallery:
   {% endfor %}
 {% endfor %}
 
-<a class="card" style="width: 18rem" href="https://www.youtube.com/channel/UCjNZDC-ANZ23b6Qakv_1Yog">
-  <img src="/assets/images/icon/youtube.png" class="card-img-top" alt="Youtube">
-</a>
-
-<a class="card" style="width: 18rem" href="https://assetstore.unity.com/publishers/36858">
-  <img src="/assets/images/icon/unity.png" class="card-img-top" alt="Unity">
-</a>
-
-<a class="card" style="width: 18rem" href="mailto:onecoin.studios@gmail.com">
-  <img src="/assets/images/icon/email.png" class="card-img-top" alt="EMail">
-</a>
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col text-center">
+      <a class="card" style="width: 18rem" href="https://www.youtube.com/channel/UCjNZDC-ANZ23b6Qakv_1Yog">
+        <img src="/assets/images/icon/youtube.png" class="card-img-top" alt="Youtube">
+      </a>
+    </div>
+    <div class="col text-center">
+      <a class="card" style="width: 18rem" href="https://assetstore.unity.com/publishers/36858">
+        <img src="/assets/images/icon/unity.png" class="card-img-top" alt="Unity">
+      </a>
+    </div>
+    <div class="col text-center">
+      <a class="card" style="width: 18rem" href="mailto:onecoin.studios@gmail.com">
+        <img src="/assets/images/icon/email.png" class="card-img-top" alt="EMail">
+      </a>
+    </div>
+  </div>
+</div>
