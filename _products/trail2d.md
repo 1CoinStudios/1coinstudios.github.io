@@ -5,7 +5,7 @@ permalink: /products/trail2d/
 title: "TRAIL2D"
 excerpt: "The amazing 2D Sprite Trail solution."
 header:
-  teaser: assets/images/asset_02.jpg
+  teaser: assets/images/trail2d/thumbnail.jpg
 
 layout: single
 

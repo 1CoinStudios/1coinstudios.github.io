@@ -5,7 +5,7 @@ permalink: /products/light2d/
 title: "LIGHT2D"
 excerpt: "The amazing 2D Lights and Shadows solution"
 header:
-  teaser: assets/images/asset_01.jpg
+  teaser: assets/images/light2d/thumbnail.jpg
 
 layout: single
 
