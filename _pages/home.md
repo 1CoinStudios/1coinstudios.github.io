@@ -23,8 +23,6 @@ gallery:
     alt: "Emaiil link"
 ---
 
-{% include gallery %}
-
 {% capture written_label %}'None'{% endcapture %}
 
 {% for collection in site.collections %}
@@ -34,3 +32,5 @@ gallery:
     {% endunless %}
   {% endfor %}
 {% endfor %}
+
+{% include gallery %}
