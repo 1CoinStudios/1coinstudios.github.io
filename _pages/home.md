@@ -33,6 +33,8 @@ gallery:
   {% endfor %}
 {% endfor %}
 
+<br>
+
 <div style="display: flex">
   <div style="flex: 1; text-align: center">
     <a chref="https://www.youtube.com/channel/UCjNZDC-ANZ23b6Qakv_1Yog">
