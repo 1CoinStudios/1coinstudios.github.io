@@ -21,7 +21,7 @@ locale                   : "en-US"
 title                    : "1COIN"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "1COIN"
 description              : "An amazing website."
 url                      : "https://1coinstudios.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -98,7 +98,7 @@ author:
   name             : "1Coin"
   avatar           : "/assets/images/logo.png"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  location         : "Seoul, Korea"
   email            :
   links:
     - label: "Email"
@@ -125,7 +125,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "onecoin.studios@gmail.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
