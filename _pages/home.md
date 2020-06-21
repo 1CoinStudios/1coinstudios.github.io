@@ -7,7 +7,23 @@ header:
   actions:
     - label: "<i class='fas fa-download'></i> Download"
       url: "https://assetstore.unity.com/publishers/36858"
+
+external_link:
+  - url: https://www.youtube.com/channel/UCjNZDC-ANZ23b6Qakv_1Yog
+    title: YOUTUBE
+    image_path: /assets/images/icon/youtube.png
+    alt: "Youtube link"
+  - url: https://assetstore.unity.com/publishers/36858
+    title: ASSET STORE
+    image_path: /assets/images/icon/unity.png
+    alt: "Unity asset store link"
+  - url: mailto:onecoin.studios@gmail.com
+    title: EMAIL
+    image_path: /assets/images/icon/email.png
+    alt: "Emaiil link"
 ---
+
+{% include external_link %}
 
 {% capture written_label %}'None'{% endcapture %}
 
