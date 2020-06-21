@@ -3,7 +3,7 @@
 permalink: /products/light2d/
 
 title: "LIGHT2D"
-excerpt: "Light2D is bla bla bla."
+excerpt: "The amazing 2D Lights and Shadows solution"
 header:
   teaser: assets/images/asset_01.jpg
 

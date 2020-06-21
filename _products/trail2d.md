@@ -3,7 +3,7 @@
 permalink: /products/trail2d/
 
 title: "TRAIL2D"
-excerpt: "TRAIL2D is bla bla bla."
+excerpt: "The amazing 2D Sprite Trail solution."
 header:
   teaser: assets/images/asset_02.jpg
 

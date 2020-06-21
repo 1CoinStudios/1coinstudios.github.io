@@ -3,7 +3,7 @@
 permalink: /products/shockwave/
 
 title: "Shockwave"
-excerpt: "Shockwave is bla bla bla."
+excerpt: "Shockwave Effect is Shader based effect that distort background scene."
 header:
   teaser: assets/images/asset_03.jpg
 
